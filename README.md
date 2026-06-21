@@ -33,13 +33,14 @@ Además, el mensaje se colorea dinámicamente:
 
 ## Cómo ejecutar el proyecto
 
-### Clonar el repositorio
+### Requisitos Previos
+Necesitas tener instalado un navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.) y opcionalmente [Git](https://git-scm.com/) en tu equipo.
 
-```bash
-git clone URL_DEL_REPOSITORIO
-```
+### 1. Clonar el repositorio
+Abre tu terminal o consola de comandos y ejecuta el siguiente comando: 
+git clone "https://github.com/NDanielBarrera/Tarea-2.git"
 
-### Abrir el proyecto
+### 2. Iniciar ejecución
 
 Abrir el archivo:
 
@@ -51,17 +52,21 @@ en cualquier navegador web moderno.
 
 También puede ejecutarse mediante Live Server en Visual Studio Code.
 
+### 2. Cargar datos
+Al abrirse el formulario en el navegador, cargar los datos solicitados (nombre y edad) y confirmar haciendo click en el botón "Enviar".
+
 ---
 
 ## Capturas de funcionamiento
 
 ### Mensaje positivo
 
-Agregar aquí una captura mostrando una edad igual o mayor a 18 años.
+![Mensaje positivo](assets/positivo.png)
+
 
 ### Mensaje negativo
 
-Agregar aquí una captura mostrando una edad menor a 18 años.
+![Mensaje negativo](assets/negativo.png)
 
 ---
 
@@ -69,9 +74,13 @@ Agregar aquí una captura mostrando una edad menor a 18 años.
 
 Nombre: Néstor Daniel Barrera
 
-Curso: Desarrollo Web
+Curso: Certificación Full Stack Web Development con React.js
 
-Unidad: HTML, CSS y JavaScript
+Unidad N° 2: JavaScript esencial.
+
+Institución: Centro de e-Learning UTN BA (Universidad Tecnológica Nacional Sede Buenos Aires)
+
+Año: 2026
 
 ---
 
