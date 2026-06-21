@@ -4,7 +4,9 @@
 }
 .positivo {
     color: green;
+    font-width: bold;
 }
 .negativo {
     color: red;
+    font-weight: bold;
 }

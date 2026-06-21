@@ -13,12 +13,12 @@ function verificarEdad(event) {
     
     if (edad >= 18) {
         mensaje.textContent = 
-        "✅ Bienvenido, ${nombre}, tienes acceso al evento.";
+        `✅ Bienvenido, ${nombre}, tienes acceso al evento.`;
         mensaje.classList.remove("negativo");
         mensaje.classList.add("positivo");
     } else {
         mensaje.textContent = 
-        "❌ Lo sentimos, ${nombre}, debes ser mayor de edad.";
+        `❌ Lo sentimos, ${nombre}, debes ser mayor de edad.`;
         mensaje.classList.remove("positivo");
         mensaje.classList.add("negativo");
     }
