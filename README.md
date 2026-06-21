@@ -92,4 +92,4 @@ Año: 2026
 - Documentación de JavaScript:
   - https://developer.mozilla.org/es/docs/Web/JavaScript
 
-- Material de estudio UTN e-Learning.
+- Material de estudio UTN BA Centro de e-Learning.
