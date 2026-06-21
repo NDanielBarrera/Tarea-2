@@ -1,0 +1,10 @@
+#mensaje {
+    margin-top: 10px;
+    font-weight: bold;
+}
+.positivo {
+    color: green;
+}
+.negativo {
+    color: red;
+}
