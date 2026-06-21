@@ -57,11 +57,11 @@ También puede ejecutarse mediante Live Server en Visual Studio Code.
 
 ### Mensaje positivo
 
-Agregar aquí una captura mostrando una edad igual o mayor a 18 años.
+![Mensaje positivo](assets/positivo.png)
 
 ### Mensaje negativo
 
-Agregar aquí una captura mostrando una edad menor a 18 años.
+![Mensaje negativo](assets/negativo.png)
 
 ---
 
